@@ -1,0 +1,15 @@
+
+A/B Testing Final Recommendation
+
+Control Mean Conversion Rate: 0.1988
+Test Mean Conversion Rate: 0.1974
+Difference (Test - Control): -0.0014
+p-value: 0.5466
+95% Confidence Interval: [-0.0059, 0.0031]
+
+Decision:
+Since p-value > 0.05,
+we fail to reject the null hypothesis.
+
+Business Recommendation:
+No clear benefit from higher discounts; reconsider strategy.
